@@ -1,0 +1,42 @@
+commit 69593582d70c69af01e00c03f5ee30d924753eba
+Author: Gian <giancarlocromualdo@gmail.com>
+Date:   Wed Jan 21 14:43:55 2026 -0300
+
+    hello world
+
+diff --git a/DevOps-Training b/DevOps-Training
+new file mode 160000
+index 0000000..b8cd77e
+--- /dev/null
++++ b/DevOps-Training
+@@ -0,0 +1 @@
++Subproject commit b8cd77e76f15a31f0f92624ad1625243c18fffd1
+
+commit 74550663afbef1f54b73047b31b92f426e20e38e
+Author: Gian <giancarlocromualdo@gmail.com>
+Date:   Wed Jan 21 14:09:06 2026 -0300
+
+    Teste DevOps
+
+diff --git a/test.txt b/test.txt
+new file mode 100644
+index 0000000..9801343
+--- /dev/null
++++ b/test.txt
+@@ -0,0 +1,2 @@
++Hello World
++
+
+commit b8cd77e76f15a31f0f92624ad1625243c18fffd1
+Author: Giancarlo Conrado Romualdo <81781883+shanksyko@users.noreply.github.com>
+Date:   Wed Jan 21 14:22:59 2026 -0300
+
+    Add initial Test file with 'Hello world'
+
+diff --git a/Test b/Test
+new file mode 100644
+index 0000000..802992c
+--- /dev/null
++++ b/Test
+@@ -0,0 +1 @@
++Hello world

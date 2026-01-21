@@ -1,0 +1,3 @@
+* 6959358 (HEAD -> test, origin/test) hello world
+* 7455066 (origin/nome-da-branch, main) Teste DevOps
+* b8cd77e (origin/Test-branch) Add initial Test file with 'Hello world'
